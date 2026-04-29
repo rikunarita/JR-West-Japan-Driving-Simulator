@@ -1,6 +1,5 @@
 # JR西日本運転シュミレーター
 This was forked from https://turbowarp.org/888743935.
-
 これはhttps://turbowarp.org/888743935 からフォークされました。
 ---
 
